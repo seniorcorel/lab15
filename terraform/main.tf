@@ -8,6 +8,7 @@
 # Sustituye este código por tu propia infraestructura cuando el pipeline esté
 # verde — el workflow scan/plan/apply seguirá funcionando sobre cualquier
 # código Terraform que pongas en este directorio.
+#prueba
 
 terraform {
   required_version = ">= 1.10"
