@@ -9,6 +9,7 @@
 # verde — el workflow scan/plan/apply seguirá funcionando sobre cualquier
 # código Terraform que pongas en este directorio.
 #prueba
+#dale
 
 terraform {
   required_version = ">= 1.10"
