@@ -1,5 +1,5 @@
 # Ejemplo mínimo de infraestructura para validar el pipeline DevSecOps de lab-15.
-#
+## trigger inicial
 # Diseñado para pasar todos los gates (Checkov, Trivy, Conftest) sin requerir
 # infraestructura auxiliar (buckets de logs, lifecycle policies, etc.). Una
 # sola CMK de KMS basta para ejercer el pipeline de extremo a extremo y
